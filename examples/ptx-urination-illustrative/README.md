@@ -4,6 +4,17 @@ This is the worked example Joshua requested: a retrospectively selected and edit
 
 Start with the [witness database](witness-database.md). Local source and historical-record paths now lead to the [provenance index](provenance-index.md); those underlying files are not in this repository. Each short entry links to exactly one question and one checked FRD. Follow the checked FRD to its cited source locator and short source anchor, or to its candidate counterpart. The [question database](question-database.md) displays both the retrospectively chosen raw question and its controlled-English transcoding. Witnesses themselves have not been transcoded.
 
+## PTX run inputs
+
+These are the latest surviving PTX frame and the selected FRD prompts. They show the concrete instructions behind the historical effort. The compact databases below were reconstructed with hindsight; they are **not** the direct output of one uninterrupted run using these four files.
+
+- [Quest header](run-inputs/quest-header.md)
+- [Ranked source index](run-inputs/ranked-source-index.md)
+- [FRD creation prompt](run-inputs/frd-creation-prompt.md) — the revised prompt used for the later creation batches.
+- [FRD validation prompt](run-inputs/frd-validation-prompt.md) — the selected v2.1b prompt.
+
+The header and prompts are exact copies of the surviving files. The index preserves its text but displays its 111 machine-local source links as filenames, since the source files are not published here.
+
 ## What was delivered
 
 The frozen size denominator is **111 original Markdown sources, 4,923,230 bytes**. Sizes below measure these GitHub-ready UTF-8 files, including headings, links and provenance references. The local working files had longer machine-specific links and different byte sizes. No compressed archive sizes, deployment folders or source copies enter these totals.

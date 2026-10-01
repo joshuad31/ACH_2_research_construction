@@ -2,6 +2,8 @@
 
 These are research-stage instructions. Names describe the task; the original revisions and historical names remain in the document text.
 
+The [PTX run inputs](../examples/ptx-urination-illustrative/README.md#ptx-run-inputs) show the concrete header, ranked index, and selected FRD prompts used in that project. Those differ from the generic prompt generators below.
+
 - [quest-header-generator.md](./quest-header-generator.md) — source file: `03 ACH_2_0_Quest_Header_Generator_and_Template_v2.md`
 - [notebooklm-archivist-prompt-generator.md](./notebooklm-archivist-prompt-generator.md) — source file: `04 Archivist_Custom_Prompt_Generator_and_template_v4.md`
 - [notebooklm-evidence-fusion-and-hypothesis-assessment.md](./notebooklm-evidence-fusion-and-hypothesis-assessment.md) — source file: `05 ACH_Eval_NLM_Super.md`

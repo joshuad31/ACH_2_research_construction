@@ -8,6 +8,7 @@ ACH is a proposed workflow for turning a bounded source corpus into checked find
 - [Short specification](docs/short-specification.md): the current rules and limits.
 - [Prompts](prompts/README.md): the task instructions, grouped by function.
 - [Illustrative PTX run](examples/ptx-urination-illustrative/README.md): a retrospective example of compact output.
+- [PTX run inputs](examples/ptx-urination-illustrative/README.md#ptx-run-inputs): the header, ranked index, and selected FRD creation and validation prompts.
 
 ## Status and limits
 
