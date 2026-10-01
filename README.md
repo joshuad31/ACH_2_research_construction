@@ -9,6 +9,7 @@ ACH is a proposed workflow for turning a bounded source corpus into checked find
 - [Prompts](prompts/README.md): the task instructions, grouped by function.
 - [Illustrative PTX run](examples/ptx-urination-illustrative/README.md): a retrospective example of compact output.
 - [PTX run inputs](examples/ptx-urination-illustrative/README.md#ptx-run-inputs): the header, ranked index, deployed Archivist prompt, and selected FRD prompts.
+- [PTX language-tool fragments](examples/ptx-language-tools/README.md): the experimental Mr. Dictionary and Canonicalizer outputs.
 
 ## Status and limits
 
