@@ -6,10 +6,11 @@ Start with the [witness database](witness-database.md). Local source and histori
 
 ## PTX run inputs
 
-These are the latest surviving PTX frame and the selected FRD prompts. They show the concrete instructions behind the historical effort. The compact databases below were reconstructed with hindsight; they are **not** the direct output of one uninterrupted run using these four files.
+These are the latest surviving PTX frame, the deployed Archivist prompt, and the selected FRD prompts. They show the concrete instructions behind the historical effort. The compact databases below were reconstructed with hindsight; they are **not** the direct output of one uninterrupted run using these five files.
 
 - [Quest header](run-inputs/quest-header.md)
 - [Ranked source index](run-inputs/ranked-source-index.md)
+- [Archivist custom prompt](run-inputs/archivist-custom-prompt.txt) — the instructions deployed in NotebookLM.
 - [FRD creation prompt](run-inputs/frd-creation-prompt.md) — the revised prompt used for the later creation batches.
 - [FRD validation prompt](run-inputs/frd-validation-prompt.md) — the selected v2.1b prompt.
 

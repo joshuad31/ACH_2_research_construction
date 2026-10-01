@@ -1,3 +1,4 @@
 *.md text eol=lf
 *.txt text eol=lf
 .gitignore text eol=lf
+examples/ptx-urination-illustrative/run-inputs/archivist-custom-prompt.txt -text
